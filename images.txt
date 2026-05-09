@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 rocker/rstudio:latest
+ghcr.io/oritera/cairn-worker-container:latest
