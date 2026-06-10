@@ -5,5 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-rocker/rstudio:latest
-ghcr.io/oritera/cairn-worker-container:latest
+hagb/docker-atrust:latest
+
+# rocker/rstudio:latest
+# ghcr.io/oritera/cairn-worker-container:latest
